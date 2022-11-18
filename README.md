@@ -2,3 +2,4 @@
 - 👀 I’m interested in IT & Data Engineering
 - 🌱 I’m currently preparing my Diploma in IT & Data Engineering.
 - 💞️ I’m also student at 42 Network...
+- 😎 echo Welcome
