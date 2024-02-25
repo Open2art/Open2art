@@ -1,7 +1,7 @@
 <body >
 <img src = "https://planonsoftware.com/upload_mm/d/2/8/4719_fullimage_20210309-image-dataanalytics-magnifieroverview-high-3000x1987_1400x328_1447x1132_progr.jpg">
 <h2 style="background-color:DodgerBlue" align="center">Hi 👋, I'm Abdoul Rahmane Amidou</h2>
-<h4 align="left"> Junior IT & Data Engineer living in Morocco  </h4>
+<h4 align="left"> Data Scientist  </h4>
  
 <img align="right" width="400" src="https://marketoonist.com/wp-content/uploads/2022/11/221114.n.bots_.jpg">
 
